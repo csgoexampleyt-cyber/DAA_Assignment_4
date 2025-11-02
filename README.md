@@ -21,6 +21,7 @@ Topological Sort (Kahn's Algorithm)
 Goal:
 Find a linear order of vertices in a Directed Acyclic Graph (DAG) such that for every directed edge u → v, u comes before v.
 Here are the test results:
+
 <img width="591" height="104" alt="image" src="https://github.com/user-attachments/assets/1ce68b20-4a28-46e0-92c1-d2cd650663fe" />
 
 Shortest and Longest Path Algorithms:
