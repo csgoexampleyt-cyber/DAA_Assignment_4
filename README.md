@@ -17,6 +17,8 @@ Find groups of vertices (SCCs) in a directed graph where every vertex is reachab
 Here are the test results:
 <img width="638" height="151" alt="image" src="https://github.com/user-attachments/assets/a6c67230-445e-4d9c-84bf-233fa80f4ad9" />
 
+<img width="570" height="348" alt="image" src="https://github.com/user-attachments/assets/505a846e-09ca-443a-958b-3addc1be95e8" />
+
 Topological Sort (Kahn's Algorithm)
 Goal:
 Find a linear order of vertices in a Directed Acyclic Graph (DAG) such that for every directed edge u → v, u comes before v.
