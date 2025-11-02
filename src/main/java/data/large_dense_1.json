@@ -1,0 +1,1502 @@
+{
+  "vertices": 35,
+  "edges": [
+    {
+      "weight": 6.356232106638825,
+      "from": "Inspection_1",
+      "to": "DataAnalysis_2"
+    },
+    {
+      "weight": 9.708141237095035,
+      "from": "Inspection_1",
+      "to": "CameraCheck_3"
+    },
+    {
+      "weight": 6.172237007299829,
+      "from": "Inspection_1",
+      "to": "SignCheck_4"
+    },
+    {
+      "weight": 7.615196465147676,
+      "from": "Inspection_1",
+      "to": "Archive_7"
+    },
+    {
+      "weight": 2.7745424465186495,
+      "from": "Inspection_1",
+      "to": "Inspection_9"
+    },
+    {
+      "weight": 1.4650913137693806,
+      "from": "Inspection_1",
+      "to": "LightFix_11"
+    },
+    {
+      "weight": 6.56817242590496,
+      "from": "Inspection_1",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 3.572246288400507,
+      "from": "Inspection_1",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 3.438710090398673,
+      "from": "Inspection_1",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 1.8140621632872587,
+      "from": "Inspection_1",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 6.680223751528876,
+      "from": "Inspection_1",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 1.9572460611392435,
+      "from": "Inspection_1",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 9.074535116263972,
+      "from": "Inspection_1",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 5.878254093217423,
+      "from": "Inspection_1",
+      "to": "ProcessData_5"
+    },
+    {
+      "weight": 6.056853011572068,
+      "from": "Inspection_1",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 6.778027239482179,
+      "from": "Inspection_1",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 4.687586566888886,
+      "from": "Inspection_1",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 5.8328594739478605,
+      "from": "Inspection_1",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 5.559734050417918,
+      "from": "DataAnalysis_2",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 8.346458375338589,
+      "from": "DataAnalysis_2",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 9.89199870434982,
+      "from": "DataAnalysis_2",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 3.326860373187418,
+      "from": "DataAnalysis_2",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 7.839723336735187,
+      "from": "DataAnalysis_2",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 4.660307619996586,
+      "from": "DataAnalysis_2",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 3.7503819922252366,
+      "from": "DataAnalysis_2",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 5.014182898152011,
+      "from": "DataAnalysis_2",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 7.734244775359458,
+      "from": "DataAnalysis_2",
+      "to": "StatusUpdate_8"
+    },
+    {
+      "weight": 6.392371107374533,
+      "from": "DataAnalysis_2",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 4.837331562741703,
+      "from": "DataAnalysis_2",
+      "to": "CameraCheck_3"
+    },
+    {
+      "weight": 2.731933341952521,
+      "from": "DataAnalysis_2",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 3.5899138194877636,
+      "from": "CameraCheck_3",
+      "to": "ProcessData_5"
+    },
+    {
+      "weight": 7.408133562901842,
+      "from": "CameraCheck_3",
+      "to": "StatusUpdate_8"
+    },
+    {
+      "weight": 7.333283145549124,
+      "from": "CameraCheck_3",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 7.91374721623701,
+      "from": "CameraCheck_3",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 1.0935678806665279,
+      "from": "CameraCheck_3",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 5.946743381251803,
+      "from": "CameraCheck_3",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 8.983439288841842,
+      "from": "CameraCheck_3",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 9.97473846539849,
+      "from": "CameraCheck_3",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 1.158051281085446,
+      "from": "CameraCheck_3",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 7.7325954947075575,
+      "from": "CameraCheck_3",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 5.131848033978018,
+      "from": "CameraCheck_3",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 4.7988254987317225,
+      "from": "CameraCheck_3",
+      "to": "Archive_6"
+    },
+    {
+      "weight": 1.4992637334137935,
+      "from": "CameraCheck_3",
+      "to": "Inspection_9"
+    },
+    {
+      "weight": 6.127981638260209,
+      "from": "CameraCheck_3",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 9.579589391093025,
+      "from": "CameraCheck_3",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 3.548958105830045,
+      "from": "CameraCheck_3",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 9.41568825232024,
+      "from": "CameraCheck_3",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 3.426822202004459,
+      "from": "CameraCheck_3",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 3.051518895491016,
+      "from": "SignCheck_4",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 1.6844686994726827,
+      "from": "SignCheck_4",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 7.351692828784501,
+      "from": "SignCheck_4",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 6.076403067355916,
+      "from": "SignCheck_4",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 7.9717071241162385,
+      "from": "SignCheck_4",
+      "to": "Archive_7"
+    },
+    {
+      "weight": 6.319573961020834,
+      "from": "SignCheck_4",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 5.780348843193821,
+      "from": "SignCheck_4",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 6.490787084663435,
+      "from": "SignCheck_4",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 7.243831673215726,
+      "from": "SignCheck_4",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 6.449680312663396,
+      "from": "SignCheck_4",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 4.796361178128402,
+      "from": "SignCheck_4",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 9.324375943854717,
+      "from": "SignCheck_4",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 8.751957379297851,
+      "from": "SignCheck_4",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 5.598633728148376,
+      "from": "SignCheck_4",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 1.3465167330798966,
+      "from": "ProcessData_5",
+      "to": "Archive_6"
+    },
+    {
+      "weight": 2.5512618031383854,
+      "from": "ProcessData_5",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 3.921150317531141,
+      "from": "ProcessData_5",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 6.108831492424541,
+      "from": "ProcessData_5",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 6.1477327852672605,
+      "from": "ProcessData_5",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 6.663750534527917,
+      "from": "ProcessData_5",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 4.460044315609851,
+      "from": "ProcessData_5",
+      "to": "CameraCheck_14"
+    },
+    {
+      "weight": 2.2635011980671744,
+      "from": "ProcessData_5",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 8.035780360862635,
+      "from": "ProcessData_5",
+      "to": "StatusUpdate_8"
+    },
+    {
+      "weight": 9.586216806089427,
+      "from": "ProcessData_5",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 5.7315581946065945,
+      "from": "ProcessData_5",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 5.725763410815878,
+      "from": "ProcessData_5",
+      "to": "LightFix_11"
+    },
+    {
+      "weight": 1.8759622747429843,
+      "from": "ProcessData_5",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 7.804819465560155,
+      "from": "Archive_6",
+      "to": "CameraCheck_14"
+    },
+    {
+      "weight": 6.22426816942131,
+      "from": "Archive_6",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 7.343829090726724,
+      "from": "Archive_6",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 2.156107395915334,
+      "from": "Archive_6",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 9.122200878663175,
+      "from": "Archive_6",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 8.25795617348243,
+      "from": "Archive_6",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 9.352013764358476,
+      "from": "Archive_6",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 5.458883263279664,
+      "from": "Archive_6",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 3.4301444539232224,
+      "from": "Archive_6",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 4.456551777296186,
+      "from": "Archive_6",
+      "to": "LightFix_11"
+    },
+    {
+      "weight": 7.51839810786225,
+      "from": "Archive_6",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 8.931931409549541,
+      "from": "Archive_6",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 9.055740134609128,
+      "from": "Archive_6",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 2.0575747242507685,
+      "from": "Archive_6",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 2.86125178045273,
+      "from": "Archive_6",
+      "to": "StatusUpdate_8"
+    },
+    {
+      "weight": 3.8205260832395758,
+      "from": "Archive_6",
+      "to": "Inspection_9"
+    },
+    {
+      "weight": 2.47375760701292,
+      "from": "Archive_6",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 5.7178104081912435,
+      "from": "Archive_7",
+      "to": "StatusUpdate_8"
+    },
+    {
+      "weight": 2.1432875503919546,
+      "from": "Archive_7",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 3.896087045347848,
+      "from": "Archive_7",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 9.375775290025508,
+      "from": "Archive_7",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 5.203084156284642,
+      "from": "Archive_7",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 4.819015565187549,
+      "from": "Archive_7",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 9.151169247919453,
+      "from": "Archive_7",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 5.594949394584032,
+      "from": "Archive_7",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 1.3115023433650252,
+      "from": "Archive_7",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 1.0690990757163825,
+      "from": "Archive_7",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 7.323814245550921,
+      "from": "Archive_7",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 8.371191381022957,
+      "from": "Archive_7",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 9.139988375023545,
+      "from": "StatusUpdate_8",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 5.6667786243876295,
+      "from": "StatusUpdate_8",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 7.1009726023817885,
+      "from": "StatusUpdate_8",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 6.961627249186209,
+      "from": "StatusUpdate_8",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 8.365519652479351,
+      "from": "StatusUpdate_8",
+      "to": "Inspection_9"
+    },
+    {
+      "weight": 6.544880140857529,
+      "from": "StatusUpdate_8",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 3.0703777571190263,
+      "from": "StatusUpdate_8",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 2.963552275487708,
+      "from": "StatusUpdate_8",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 4.187161829954925,
+      "from": "StatusUpdate_8",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 4.313153031485479,
+      "from": "StatusUpdate_8",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 9.658198915574449,
+      "from": "StatusUpdate_8",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 2.2207206082395694,
+      "from": "StatusUpdate_8",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 8.211090577228045,
+      "from": "StatusUpdate_8",
+      "to": "LightFix_11"
+    },
+    {
+      "weight": 8.470378209111228,
+      "from": "StatusUpdate_8",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 2.4896786913423887,
+      "from": "StatusUpdate_8",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 8.318208266162834,
+      "from": "Inspection_9",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 7.7427606366515125,
+      "from": "Inspection_9",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 6.356103747688167,
+      "from": "Inspection_9",
+      "to": "CameraCheck_14"
+    },
+    {
+      "weight": 1.7035687294443682,
+      "from": "Inspection_9",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 7.837765960432186,
+      "from": "Inspection_9",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 7.926415833871219,
+      "from": "Inspection_9",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 4.885630116011961,
+      "from": "Inspection_9",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 7.77870140066478,
+      "from": "Inspection_9",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 9.10239941983359,
+      "from": "ProcessData_10",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 4.620209451106618,
+      "from": "ProcessData_10",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 2.9446142750532953,
+      "from": "ProcessData_10",
+      "to": "LightFix_11"
+    },
+    {
+      "weight": 1.225016228501184,
+      "from": "ProcessData_10",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 7.989482541764375,
+      "from": "ProcessData_10",
+      "to": "ReadSensor_12"
+    },
+    {
+      "weight": 6.331521126789504,
+      "from": "ProcessData_10",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 4.5537290925036435,
+      "from": "ProcessData_10",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 4.105672825813269,
+      "from": "ProcessData_10",
+      "to": "CameraCheck_14"
+    },
+    {
+      "weight": 4.530165465913394,
+      "from": "ProcessData_10",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 6.803181692530503,
+      "from": "ProcessData_10",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 9.543327308098124,
+      "from": "ProcessData_10",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 1.6701939664110297,
+      "from": "ProcessData_10",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 3.625510606674423,
+      "from": "ProcessData_10",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 4.136420088703656,
+      "from": "ProcessData_10",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 1.411797671346346,
+      "from": "ProcessData_10",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 9.080579900983796,
+      "from": "ProcessData_10",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 6.459343131858053,
+      "from": "LightFix_11",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 3.105320204337998,
+      "from": "LightFix_11",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 2.2153346430113867,
+      "from": "LightFix_11",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 3.2789363664178226,
+      "from": "LightFix_11",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 8.908327316715866,
+      "from": "LightFix_11",
+      "to": "CameraCheck_14"
+    },
+    {
+      "weight": 5.1992125864327745,
+      "from": "LightFix_11",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 3.9522804886418816,
+      "from": "LightFix_11",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 8.196835206128322,
+      "from": "LightFix_11",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 9.777896151222633,
+      "from": "LightFix_11",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 2.8491439113735986,
+      "from": "ReadSensor_12",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 5.553471942731865,
+      "from": "ReadSensor_12",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 1.9716275688153049,
+      "from": "ReadSensor_12",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 3.574380490143315,
+      "from": "ReadSensor_12",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 2.750032306597336,
+      "from": "ReadSensor_12",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 6.81999621460657,
+      "from": "ReadSensor_12",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 3.971186684997381,
+      "from": "ReadSensor_12",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 4.3808814316161175,
+      "from": "ReadSensor_12",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 1.3470321137402692,
+      "from": "ReadSensor_12",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 6.2673864494656595,
+      "from": "ReadSensor_12",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 1.2430058465272995,
+      "from": "ProcessData_13",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 9.259422300669407,
+      "from": "ProcessData_13",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 8.351647045031257,
+      "from": "ProcessData_13",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 7.879889455210661,
+      "from": "ProcessData_13",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 3.6267121560423994,
+      "from": "ProcessData_13",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 8.452151307122758,
+      "from": "ProcessData_13",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 5.200579395024884,
+      "from": "ProcessData_13",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 5.748582100589325,
+      "from": "ProcessData_13",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 7.799725841908963,
+      "from": "ProcessData_13",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 7.818153478417343,
+      "from": "ProcessData_13",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 4.526136238937625,
+      "from": "ProcessData_13",
+      "to": "CameraCheck_14"
+    },
+    {
+      "weight": 7.288609098129586,
+      "from": "ProcessData_13",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 3.2945237488926153,
+      "from": "ProcessData_13",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 2.6208531654891547,
+      "from": "CameraCheck_14",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 3.279904635023828,
+      "from": "CameraCheck_14",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 7.5799967805174955,
+      "from": "CameraCheck_14",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 3.8734387612168835,
+      "from": "CameraCheck_14",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 3.4480942860267363,
+      "from": "CameraCheck_14",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 9.97710297137453,
+      "from": "CameraCheck_14",
+      "to": "MonitorTraffic_20"
+    },
+    {
+      "weight": 7.504195711732994,
+      "from": "CameraCheck_14",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 7.604700337166632,
+      "from": "CameraCheck_14",
+      "to": "Archive_15"
+    },
+    {
+      "weight": 6.8212248730036436,
+      "from": "CameraCheck_14",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 5.445604705309188,
+      "from": "CameraCheck_14",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 5.3374174815531745,
+      "from": "CameraCheck_14",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 6.978363610079968,
+      "from": "CameraCheck_14",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 4.1870669815165416,
+      "from": "CameraCheck_14",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 5.052039627681959,
+      "from": "Archive_15",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 8.101120618039056,
+      "from": "Archive_15",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 7.100837364600971,
+      "from": "Archive_15",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 1.2882331681238441,
+      "from": "Archive_15",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 7.961830997461572,
+      "from": "Archive_15",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 6.275675920251669,
+      "from": "Archive_15",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 1.4786775750124717,
+      "from": "Archive_15",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 5.19566412544528,
+      "from": "Archive_15",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 7.151160508142226,
+      "from": "Archive_15",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 3.1620905059324906,
+      "from": "Archive_15",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 6.9083651420855725,
+      "from": "Archive_15",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 7.39422456841702,
+      "from": "Archive_15",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 4.643667101344419,
+      "from": "ReportGen_16",
+      "to": "ReadSensor_21"
+    },
+    {
+      "weight": 7.036673796433896,
+      "from": "ReportGen_16",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 4.893214902072135,
+      "from": "ReportGen_16",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 3.552503091785322,
+      "from": "ReportGen_16",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 8.798645387585335,
+      "from": "ReportGen_16",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 9.662895176379706,
+      "from": "ReportGen_16",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 2.1440041096669393,
+      "from": "ReportGen_16",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 4.856429878227937,
+      "from": "ReportGen_16",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 4.805265209683958,
+      "from": "ReportGen_16",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 1.477734882954548,
+      "from": "ReportGen_16",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 3.495279743099524,
+      "from": "ReportGen_16",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 4.003811950446983,
+      "from": "ReportGen_16",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 2.7383543473574163,
+      "from": "LightFix_17",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 4.802601396548482,
+      "from": "LightFix_17",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 4.808949108378897,
+      "from": "LightFix_17",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 5.879537428328689,
+      "from": "LightFix_17",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 4.397207968308052,
+      "from": "LightFix_17",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 3.5904697680005357,
+      "from": "LightFix_17",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 5.459657023352967,
+      "from": "LightFix_17",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 9.926544267048975,
+      "from": "LightFix_17",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 7.020396274401869,
+      "from": "LightFix_17",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 8.862706462608344,
+      "from": "DataAnalysis_18",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 5.364385741319122,
+      "from": "DataAnalysis_18",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 1.5298665836460963,
+      "from": "DataAnalysis_18",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 8.439597712278239,
+      "from": "DataAnalysis_18",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 6.918627459145727,
+      "from": "DataAnalysis_18",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 7.034425485503481,
+      "from": "DataAnalysis_18",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 3.8117011964021152,
+      "from": "DataAnalysis_18",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 4.169078938019103,
+      "from": "DataAnalysis_18",
+      "to": "MonitorTraffic_19"
+    },
+    {
+      "weight": 4.438801448225345,
+      "from": "MonitorTraffic_19",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 2.1961549101122895,
+      "from": "MonitorTraffic_19",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 2.814165554459072,
+      "from": "MonitorTraffic_19",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 5.021649973734448,
+      "from": "MonitorTraffic_19",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 3.670613907077713,
+      "from": "MonitorTraffic_19",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 8.539341427602714,
+      "from": "MonitorTraffic_19",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 3.3609518159513807,
+      "from": "MonitorTraffic_20",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 3.8462002467558465,
+      "from": "MonitorTraffic_20",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 8.210658683983388,
+      "from": "MonitorTraffic_20",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 1.0679256477781285,
+      "from": "MonitorTraffic_20",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 9.28192679737729,
+      "from": "MonitorTraffic_20",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 7.61915346390547,
+      "from": "MonitorTraffic_20",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 5.473733571987759,
+      "from": "MonitorTraffic_20",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 9.346434236890433,
+      "from": "MonitorTraffic_20",
+      "to": "ValidateData_22"
+    },
+    {
+      "weight": 1.3913878904460066,
+      "from": "MonitorTraffic_20",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 5.653301863052779,
+      "from": "ReadSensor_21",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 5.336699759894379,
+      "from": "ReadSensor_21",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 9.947553946767265,
+      "from": "ReadSensor_21",
+      "to": "ReportGen_29"
+    },
+    {
+      "weight": 8.504154384356854,
+      "from": "ReadSensor_21",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 5.155101326005546,
+      "from": "ReadSensor_21",
+      "to": "CameraCheck_24"
+    },
+    {
+      "weight": 3.7075939610255157,
+      "from": "ReadSensor_21",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 3.403067890279994,
+      "from": "ReadSensor_21",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 1.5953317244859142,
+      "from": "ReadSensor_21",
+      "to": "DataAnalysis_2"
+    },
+    {
+      "weight": 5.0481121917318825,
+      "from": "ValidateData_22",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 7.494669399001404,
+      "from": "ValidateData_22",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 8.642228945112443,
+      "from": "ValidateData_22",
+      "to": "MonitorTraffic_23"
+    },
+    {
+      "weight": 7.642260354730244,
+      "from": "ValidateData_22",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 2.7677600625146486,
+      "from": "ValidateData_22",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 8.39403135273133,
+      "from": "ValidateData_22",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 4.672520791081034,
+      "from": "ValidateData_22",
+      "to": "ReportGen_16"
+    },
+    {
+      "weight": 8.325967408796783,
+      "from": "MonitorTraffic_23",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 5.752316226828808,
+      "from": "MonitorTraffic_23",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 9.258427607616573,
+      "from": "MonitorTraffic_23",
+      "to": "CameraCheck_26"
+    },
+    {
+      "weight": 8.42632798349264,
+      "from": "MonitorTraffic_23",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 2.707872449463965,
+      "from": "CameraCheck_24",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 4.785984483532438,
+      "from": "CameraCheck_24",
+      "to": "MonitorTraffic_25"
+    },
+    {
+      "weight": 8.390729472137805,
+      "from": "CameraCheck_24",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 2.532808506196648,
+      "from": "CameraCheck_24",
+      "to": "CameraCheck_27"
+    },
+    {
+      "weight": 8.088015541976603,
+      "from": "CameraCheck_24",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 1.1545989604865483,
+      "from": "CameraCheck_24",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 5.706213273483082,
+      "from": "MonitorTraffic_25",
+      "to": "ProcessData_30"
+    },
+    {
+      "weight": 8.205424328959694,
+      "from": "MonitorTraffic_25",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 4.96157944898332,
+      "from": "MonitorTraffic_25",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 5.725925668998227,
+      "from": "CameraCheck_27",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 8.855291473209611,
+      "from": "CameraCheck_27",
+      "to": "RoadRepair_28"
+    },
+    {
+      "weight": 5.280568522521767,
+      "from": "CameraCheck_27",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 5.202552747546344,
+      "from": "CameraCheck_27",
+      "to": "LightFix_17"
+    },
+    {
+      "weight": 6.584146672422057,
+      "from": "RoadRepair_28",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 5.3602393401781265,
+      "from": "RoadRepair_28",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 1.9575060085388523,
+      "from": "RoadRepair_28",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 5.073990244232459,
+      "from": "ReportGen_29",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 8.389603890836426,
+      "from": "ReportGen_29",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 2.2426663688678703,
+      "from": "ReportGen_29",
+      "to": "LightFix_11"
+    },
+    {
+      "weight": 3.053557662393101,
+      "from": "ProcessData_30",
+      "to": "ReadSensor_31"
+    },
+    {
+      "weight": 1.1118915030854586,
+      "from": "ProcessData_30",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 2.036807107933809,
+      "from": "ProcessData_30",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 6.084436518270658,
+      "from": "ReadSensor_31",
+      "to": "RoadRepair_34"
+    },
+    {
+      "weight": 9.43540942559735,
+      "from": "ReadSensor_31",
+      "to": "ProcessData_32"
+    },
+    {
+      "weight": 3.7292087641559957,
+      "from": "ReadSensor_31",
+      "to": "SensorMaint_33"
+    },
+    {
+      "weight": 2.952731480342985,
+      "from": "ProcessData_32",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 7.658339582611986,
+      "from": "SensorMaint_33",
+      "to": "CameraCheck_35"
+    },
+    {
+      "weight": 6.297839804987194,
+      "from": "SensorMaint_33",
+      "to": "ProcessData_5"
+    },
+    {
+      "weight": 2.7952910372928534,
+      "from": "RoadRepair_34",
+      "to": "CameraCheck_35"
+    }
+  ],
+  "tasks": [
+    "Inspection_1",
+    "DataAnalysis_2",
+    "CameraCheck_3",
+    "SignCheck_4",
+    "ProcessData_5",
+    "Archive_6",
+    "Archive_7",
+    "StatusUpdate_8",
+    "Inspection_9",
+    "ProcessData_10",
+    "LightFix_11",
+    "ReadSensor_12",
+    "ProcessData_13",
+    "CameraCheck_14",
+    "Archive_15",
+    "ReportGen_16",
+    "LightFix_17",
+    "DataAnalysis_18",
+    "MonitorTraffic_19",
+    "MonitorTraffic_20",
+    "ReadSensor_21",
+    "ValidateData_22",
+    "MonitorTraffic_23",
+    "CameraCheck_24",
+    "MonitorTraffic_25",
+    "CameraCheck_26",
+    "CameraCheck_27",
+    "RoadRepair_28",
+    "ReportGen_29",
+    "ProcessData_30",
+    "ReadSensor_31",
+    "ProcessData_32",
+    "SensorMaint_33",
+    "RoadRepair_34",
+    "CameraCheck_35"
+  ]
+}

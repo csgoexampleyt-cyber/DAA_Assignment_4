@@ -1,0 +1,58 @@
+{
+  "vertices": 6,
+  "edges": [
+    {
+      "weight": 7.369395300596068,
+      "from": "Archive_1",
+      "to": "StreetClean_2"
+    },
+    {
+      "weight": 9.130350382049604,
+      "from": "Archive_1",
+      "to": "StatusUpdate_3"
+    },
+    {
+      "weight": 4.434787817027161,
+      "from": "Archive_1",
+      "to": "StreetClean_4"
+    },
+    {
+      "weight": 4.044771416305126,
+      "from": "Archive_1",
+      "to": "LightFix_5"
+    },
+    {
+      "weight": 6.79259951620345,
+      "from": "Archive_1",
+      "to": "ValidateData_6"
+    },
+    {
+      "weight": 4.958198439317279,
+      "from": "StreetClean_2",
+      "to": "StatusUpdate_3"
+    },
+    {
+      "weight": 5.17288218228238,
+      "from": "StatusUpdate_3",
+      "to": "LightFix_5"
+    },
+    {
+      "weight": 9.983607400565596,
+      "from": "StreetClean_4",
+      "to": "ValidateData_6"
+    },
+    {
+      "weight": 8.184579575008247,
+      "from": "StreetClean_4",
+      "to": "LightFix_5"
+    }
+  ],
+  "tasks": [
+    "Archive_1",
+    "StreetClean_2",
+    "StatusUpdate_3",
+    "StreetClean_4",
+    "LightFix_5",
+    "ValidateData_6"
+  ]
+}

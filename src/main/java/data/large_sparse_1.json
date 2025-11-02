@@ -1,0 +1,482 @@
+{
+  "vertices": 25,
+  "edges": [
+    {
+      "weight": 7.761712835070124,
+      "from": "Archive_1",
+      "to": "Inspection_2"
+    },
+    {
+      "weight": 9.784170377058048,
+      "from": "Archive_1",
+      "to": "RoadRepair_3"
+    },
+    {
+      "weight": 7.836163198881238,
+      "from": "Archive_1",
+      "to": "LightFix_6"
+    },
+    {
+      "weight": 3.541467227332541,
+      "from": "Archive_1",
+      "to": "StatusUpdate_16"
+    },
+    {
+      "weight": 5.137773315184683,
+      "from": "Archive_1",
+      "to": "AlertGen_8"
+    },
+    {
+      "weight": 3.0402111774816167,
+      "from": "Archive_1",
+      "to": "ValidateData_24"
+    },
+    {
+      "weight": 2.0781138797639045,
+      "from": "Archive_1",
+      "to": "Archive_7"
+    },
+    {
+      "weight": 1.063515589375161,
+      "from": "Inspection_2",
+      "to": "SignCheck_4"
+    },
+    {
+      "weight": 8.553179742414537,
+      "from": "Inspection_2",
+      "to": "AlertGen_8"
+    },
+    {
+      "weight": 3.0753560885521463,
+      "from": "Inspection_2",
+      "to": "LightFix_6"
+    },
+    {
+      "weight": 2.8451770152948277,
+      "from": "Inspection_2",
+      "to": "StatusUpdate_16"
+    },
+    {
+      "weight": 9.855082510516947,
+      "from": "Inspection_2",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 9.683948113363282,
+      "from": "Inspection_2",
+      "to": "MonitorTraffic_14"
+    },
+    {
+      "weight": 6.646107087421682,
+      "from": "Inspection_2",
+      "to": "ProcessData_22"
+    },
+    {
+      "weight": 8.751366380419407,
+      "from": "Inspection_2",
+      "to": "CameraCheck_23"
+    },
+    {
+      "weight": 2.284467640187715,
+      "from": "RoadRepair_3",
+      "to": "ProcessData_5"
+    },
+    {
+      "weight": 6.293954830909129,
+      "from": "RoadRepair_3",
+      "to": "DataAnalysis_17"
+    },
+    {
+      "weight": 7.248498139038287,
+      "from": "RoadRepair_3",
+      "to": "SignCheck_9"
+    },
+    {
+      "weight": 4.510834369771271,
+      "from": "RoadRepair_3",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 3.5867851868339113,
+      "from": "RoadRepair_3",
+      "to": "SignCheck_4"
+    },
+    {
+      "weight": 7.982152718535741,
+      "from": "RoadRepair_3",
+      "to": "StreetClean_18"
+    },
+    {
+      "weight": 4.090746538856586,
+      "from": "RoadRepair_3",
+      "to": "AlertGen_8"
+    },
+    {
+      "weight": 7.684866002832198,
+      "from": "SignCheck_4",
+      "to": "SignCheck_9"
+    },
+    {
+      "weight": 9.334787545656988,
+      "from": "SignCheck_4",
+      "to": "DataAnalysis_17"
+    },
+    {
+      "weight": 5.910980783125588,
+      "from": "SignCheck_4",
+      "to": "LightFix_6"
+    },
+    {
+      "weight": 1.1295628465144456,
+      "from": "SignCheck_4",
+      "to": "AlertGen_8"
+    },
+    {
+      "weight": 9.732161779043809,
+      "from": "SignCheck_4",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 6.158858009866688,
+      "from": "SignCheck_4",
+      "to": "ReportGen_15"
+    },
+    {
+      "weight": 3.9478723694291094,
+      "from": "ProcessData_5",
+      "to": "StatusUpdate_12"
+    },
+    {
+      "weight": 8.623956501870797,
+      "from": "ProcessData_5",
+      "to": "StatusUpdate_21"
+    },
+    {
+      "weight": 1.1916621209073974,
+      "from": "ProcessData_5",
+      "to": "Archive_7"
+    },
+    {
+      "weight": 6.752046220322592,
+      "from": "ProcessData_5",
+      "to": "AlertGen_8"
+    },
+    {
+      "weight": 3.515160815534071,
+      "from": "ProcessData_5",
+      "to": "ProcessData_11"
+    },
+    {
+      "weight": 8.199694420914106,
+      "from": "ProcessData_5",
+      "to": "ValidateData_24"
+    },
+    {
+      "weight": 8.743764071997202,
+      "from": "LightFix_6",
+      "to": "Archive_7"
+    },
+    {
+      "weight": 1.7094519169750892,
+      "from": "LightFix_6",
+      "to": "ReportGen_15"
+    },
+    {
+      "weight": 2.2089805799187316,
+      "from": "LightFix_6",
+      "to": "SignCheck_9"
+    },
+    {
+      "weight": 5.704278926474746,
+      "from": "LightFix_6",
+      "to": "StatusUpdate_16"
+    },
+    {
+      "weight": 1.5788804675282684,
+      "from": "LightFix_6",
+      "to": "ProcessData_11"
+    },
+    {
+      "weight": 9.232195291176737,
+      "from": "LightFix_6",
+      "to": "ValidateData_24"
+    },
+    {
+      "weight": 5.380661979853111,
+      "from": "Archive_7",
+      "to": "AlertGen_8"
+    },
+    {
+      "weight": 8.066435293974582,
+      "from": "Archive_7",
+      "to": "ValidateData_13"
+    },
+    {
+      "weight": 7.61600929577813,
+      "from": "Archive_7",
+      "to": "AlertGen_20"
+    },
+    {
+      "weight": 5.267651266044933,
+      "from": "Archive_7",
+      "to": "DataAnalysis_17"
+    },
+    {
+      "weight": 1.0149119427635607,
+      "from": "Archive_7",
+      "to": "ProcessData_22"
+    },
+    {
+      "weight": 1.778412903902712,
+      "from": "Archive_7",
+      "to": "MonitorTraffic_14"
+    },
+    {
+      "weight": 8.650681995168787,
+      "from": "Archive_7",
+      "to": "ProcessData_11"
+    },
+    {
+      "weight": 5.352837227284451,
+      "from": "Archive_7",
+      "to": "ValidateData_25"
+    },
+    {
+      "weight": 6.6223110709704605,
+      "from": "AlertGen_8",
+      "to": "ProcessData_10"
+    },
+    {
+      "weight": 3.561799978311927,
+      "from": "AlertGen_8",
+      "to": "ProcessData_22"
+    },
+    {
+      "weight": 2.2138441687019483,
+      "from": "AlertGen_8",
+      "to": "MonitorTraffic_14"
+    },
+    {
+      "weight": 7.720939154400194,
+      "from": "AlertGen_8",
+      "to": "SignCheck_9"
+    },
+    {
+      "weight": 5.016014375873233,
+      "from": "SignCheck_9",
+      "to": "ProcessData_11"
+    },
+    {
+      "weight": 7.114242451362977,
+      "from": "SignCheck_9",
+      "to": "DataAnalysis_17"
+    },
+    {
+      "weight": 1.362056271873875,
+      "from": "SignCheck_9",
+      "to": "ReportGen_15"
+    },
+    {
+      "weight": 2.2362516906982277,
+      "from": "ProcessData_10",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 2.6882367423607683,
+      "from": "ProcessData_10",
+      "to": "AlertGen_20"
+    },
+    {
+      "weight": 5.216270543632533,
+      "from": "ProcessData_10",
+      "to": "MonitorTraffic_14"
+    },
+    {
+      "weight": 8.260695535243627,
+      "from": "ProcessData_11",
+      "to": "StreetClean_18"
+    },
+    {
+      "weight": 3.5125994601742088,
+      "from": "ProcessData_11",
+      "to": "CameraCheck_23"
+    },
+    {
+      "weight": 2.6756928797745774,
+      "from": "ProcessData_11",
+      "to": "StatusUpdate_21"
+    },
+    {
+      "weight": 3.841510732173493,
+      "from": "ProcessData_11",
+      "to": "DataAnalysis_17"
+    },
+    {
+      "weight": 2.2011424139137232,
+      "from": "ProcessData_11",
+      "to": "ValidateData_13"
+    },
+    {
+      "weight": 2.1127692076911724,
+      "from": "StatusUpdate_12",
+      "to": "ReportGen_15"
+    },
+    {
+      "weight": 5.482971362993976,
+      "from": "ValidateData_13",
+      "to": "MonitorTraffic_14"
+    },
+    {
+      "weight": 7.358689413827887,
+      "from": "ValidateData_13",
+      "to": "ProcessData_22"
+    },
+    {
+      "weight": 7.49098733250303,
+      "from": "ValidateData_13",
+      "to": "CameraCheck_23"
+    },
+    {
+      "weight": 6.415329825417762,
+      "from": "ValidateData_13",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 2.9822306836005623,
+      "from": "ValidateData_13",
+      "to": "StreetClean_18"
+    },
+    {
+      "weight": 7.775884216202054,
+      "from": "MonitorTraffic_14",
+      "to": "StatusUpdate_16"
+    },
+    {
+      "weight": 6.85823054341519,
+      "from": "MonitorTraffic_14",
+      "to": "ValidateData_25"
+    },
+    {
+      "weight": 6.839034723060623,
+      "from": "MonitorTraffic_14",
+      "to": "StreetClean_18"
+    },
+    {
+      "weight": 4.696415314755177,
+      "from": "ReportGen_15",
+      "to": "CameraCheck_23"
+    },
+    {
+      "weight": 8.531706085206096,
+      "from": "ReportGen_15",
+      "to": "ValidateData_24"
+    },
+    {
+      "weight": 5.406489623402934,
+      "from": "ReportGen_15",
+      "to": "StreetClean_18"
+    },
+    {
+      "weight": 2.090178560974735,
+      "from": "ReportGen_15",
+      "to": "StatusUpdate_21"
+    },
+    {
+      "weight": 2.6341646623869637,
+      "from": "ReportGen_15",
+      "to": "DataAnalysis_17"
+    },
+    {
+      "weight": 9.297131249330985,
+      "from": "ReportGen_15",
+      "to": "StatusUpdate_16"
+    },
+    {
+      "weight": 8.867348053988618,
+      "from": "StatusUpdate_16",
+      "to": "ProcessData_22"
+    },
+    {
+      "weight": 7.3208555687095025,
+      "from": "StatusUpdate_16",
+      "to": "AlertGen_20"
+    },
+    {
+      "weight": 4.285017578805847,
+      "from": "StatusUpdate_16",
+      "to": "CameraCheck_23"
+    },
+    {
+      "weight": 9.591982927209214,
+      "from": "StatusUpdate_16",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 4.821443623081349,
+      "from": "DataAnalysis_17",
+      "to": "ProcessData_22"
+    },
+    {
+      "weight": 4.442761490066856,
+      "from": "DataAnalysis_17",
+      "to": "ValidateData_25"
+    },
+    {
+      "weight": 2.888781585301213,
+      "from": "StreetClean_18",
+      "to": "StreetClean_19"
+    },
+    {
+      "weight": 4.593224951182694,
+      "from": "StreetClean_19",
+      "to": "StatusUpdate_21"
+    },
+    {
+      "weight": 8.502944048190285,
+      "from": "AlertGen_20",
+      "to": "ValidateData_24"
+    },
+    {
+      "weight": 3.7357257495474556,
+      "from": "AlertGen_20",
+      "to": "ValidateData_25"
+    },
+    {
+      "weight": 1.390214961495219,
+      "from": "ProcessData_22",
+      "to": "ValidateData_25"
+    },
+    {
+      "weight": 4.402555468610309,
+      "from": "ValidateData_24",
+      "to": "ValidateData_25"
+    }
+  ],
+  "tasks": [
+    "Archive_1",
+    "Inspection_2",
+    "RoadRepair_3",
+    "SignCheck_4",
+    "ProcessData_5",
+    "LightFix_6",
+    "Archive_7",
+    "AlertGen_8",
+    "SignCheck_9",
+    "ProcessData_10",
+    "ProcessData_11",
+    "StatusUpdate_12",
+    "ValidateData_13",
+    "MonitorTraffic_14",
+    "ReportGen_15",
+    "StatusUpdate_16",
+    "DataAnalysis_17",
+    "StreetClean_18",
+    "StreetClean_19",
+    "AlertGen_20",
+    "StatusUpdate_21",
+    "ProcessData_22",
+    "CameraCheck_23",
+    "ValidateData_24",
+    "ValidateData_25"
+  ]
+}

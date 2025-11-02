@@ -1,0 +1,82 @@
+{
+  "vertices": 10,
+  "edges": [
+    {
+      "weight": 2,
+      "from": "InitSensors",
+      "to": "ReadTemp"
+    },
+    {
+      "weight": 2,
+      "from": "InitSensors",
+      "to": "ReadHumidity"
+    },
+    {
+      "weight": 2,
+      "from": "InitSensors",
+      "to": "ReadAirQuality"
+    },
+    {
+      "weight": 1.5,
+      "from": "ReadTemp",
+      "to": "ProcessData"
+    },
+    {
+      "weight": 1.5,
+      "from": "ReadHumidity",
+      "to": "ProcessData"
+    },
+    {
+      "weight": 1.5,
+      "from": "ReadAirQuality",
+      "to": "ProcessData"
+    },
+    {
+      "weight": 3,
+      "from": "ProcessData",
+      "to": "ValidateData"
+    },
+    {
+      "weight": 0.5,
+      "from": "ValidateData",
+      "to": "ProcessData"
+    },
+    {
+      "weight": 2,
+      "from": "ValidateData",
+      "to": "SendAlert"
+    },
+    {
+      "weight": 1,
+      "from": "ValidateData",
+      "to": "UpdateDashboard"
+    },
+    {
+      "weight": 1.5,
+      "from": "SendAlert",
+      "to": "LogResults"
+    },
+    {
+      "weight": 1,
+      "from": "UpdateDashboard",
+      "to": "LogResults"
+    },
+    {
+      "weight": 2,
+      "from": "LogResults",
+      "to": "ArchiveData"
+    }
+  ],
+  "tasks": [
+    "InitSensors",
+    "ReadTemp",
+    "ReadHumidity",
+    "ReadAirQuality",
+    "ProcessData",
+    "ValidateData",
+    "SendAlert",
+    "UpdateDashboard",
+    "LogResults",
+    "ArchiveData"
+  ]
+}

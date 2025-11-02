@@ -1,0 +1,100 @@
+{
+  "vertices": 8,
+  "edges": [
+    {
+      "weight": 8.360172377520755,
+      "from": "CameraCheck_1",
+      "to": "AlertGen_2"
+    },
+    {
+      "weight": 7.925817456339615,
+      "from": "CameraCheck_1",
+      "to": "CameraCheck_3"
+    },
+    {
+      "weight": 1.328360650212247,
+      "from": "CameraCheck_1",
+      "to": "StreetClean_6"
+    },
+    {
+      "weight": 7.420656320409062,
+      "from": "AlertGen_2",
+      "to": "MonitorTraffic_4"
+    },
+    {
+      "weight": 8.861063549293704,
+      "from": "AlertGen_2",
+      "to": "MonitorTraffic_5"
+    },
+    {
+      "weight": 9.5487412119352,
+      "from": "AlertGen_2",
+      "to": "StreetClean_6"
+    },
+    {
+      "weight": 2.613460967874256,
+      "from": "AlertGen_2",
+      "to": "CameraCheck_3"
+    },
+    {
+      "weight": 2.698717217591419,
+      "from": "CameraCheck_3",
+      "to": "SignCheck_7"
+    },
+    {
+      "weight": 4.911949766265493,
+      "from": "CameraCheck_3",
+      "to": "MonitorTraffic_4"
+    },
+    {
+      "weight": 5.859184908334324,
+      "from": "CameraCheck_3",
+      "to": "SignCheck_8"
+    },
+    {
+      "weight": 5.254195787882699,
+      "from": "MonitorTraffic_4",
+      "to": "StreetClean_6"
+    },
+    {
+      "weight": 8.445901816134956,
+      "from": "MonitorTraffic_4",
+      "to": "MonitorTraffic_5"
+    },
+    {
+      "weight": 3.525147925055292,
+      "from": "MonitorTraffic_4",
+      "to": "SignCheck_7"
+    },
+    {
+      "weight": 4.322093445477076,
+      "from": "StreetClean_6",
+      "to": "SignCheck_8"
+    },
+    {
+      "weight": 7.298727805604549,
+      "from": "StreetClean_6",
+      "to": "SignCheck_7"
+    },
+    {
+      "weight": 4.561896521541179,
+      "from": "StreetClean_6",
+      "to": "CameraCheck_3"
+    },
+    {
+      "weight": 4.461497595255622,
+      "from": "SignCheck_8",
+      "to": "AlertGen_2"
+    }
+  ],
+  "tasks": [
+    "CameraCheck_1",
+    "AlertGen_2",
+    "CameraCheck_3",
+    "MonitorTraffic_4",
+    "MonitorTraffic_5",
+    "StreetClean_6",
+    "SignCheck_7",
+    "SignCheck_8"
+  ]
+}

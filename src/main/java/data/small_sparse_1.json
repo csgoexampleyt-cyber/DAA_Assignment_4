@@ -1,0 +1,107 @@
+{
+  "vertices": 10,
+  "edges": [
+    {
+      "weight": 4.243568241239879,
+      "from": "StatusUpdate_1",
+      "to": "ValidateData_2"
+    },
+    {
+      "weight": 3.5094007224889094,
+      "from": "StatusUpdate_1",
+      "to": "MonitorTraffic_3"
+    },
+    {
+      "weight": 2.628064444132525,
+      "from": "StatusUpdate_1",
+      "to": "Archive_4"
+    },
+    {
+      "weight": 8.462205024984664,
+      "from": "StatusUpdate_1",
+      "to": "AlertGen_7"
+    },
+    {
+      "weight": 9.498675396974534,
+      "from": "StatusUpdate_1",
+      "to": "ValidateData_9"
+    },
+    {
+      "weight": 4.984623478775983,
+      "from": "ValidateData_2",
+      "to": "AlertGen_7"
+    },
+    {
+      "weight": 4.568695019280608,
+      "from": "ValidateData_2",
+      "to": "LightFix_8"
+    },
+    {
+      "weight": 1.0805784953586328,
+      "from": "ValidateData_2",
+      "to": "ProcessData_5"
+    },
+    {
+      "weight": 5.545407620404196,
+      "from": "ValidateData_2",
+      "to": "ValidateData_9"
+    },
+    {
+      "weight": 4.88178599621915,
+      "from": "Archive_4",
+      "to": "ProcessData_5"
+    },
+    {
+      "weight": 3.7278147267758834,
+      "from": "Archive_4",
+      "to": "ValidateData_9"
+    },
+    {
+      "weight": 5.323067829635011,
+      "from": "Archive_4",
+      "to": "DataAnalysis_6"
+    },
+    {
+      "weight": 8.99800994453246,
+      "from": "Archive_4",
+      "to": "AlertGen_7"
+    },
+    {
+      "weight": 8.218182039802182,
+      "from": "ProcessData_5",
+      "to": "DataAnalysis_6"
+    },
+    {
+      "weight": 4.644772823266057,
+      "from": "ProcessData_5",
+      "to": "AlertGen_10"
+    },
+    {
+      "weight": 4.820654752764323,
+      "from": "DataAnalysis_6",
+      "to": "AlertGen_10"
+    },
+    {
+      "weight": 2.537737640946078,
+      "from": "LightFix_8",
+      "to": "ValidateData_9"
+    },
+    {
+      "weight": 3.6105952599362476,
+      "from": "ValidateData_9",
+      "to": "AlertGen_10"
+    }
+  ],
+  "tasks": [
+    "StatusUpdate_1",
+    "ValidateData_2",
+    "MonitorTraffic_3",
+    "Archive_4",
+    "ProcessData_5",
+    "DataAnalysis_6",
+    "AlertGen_7",
+    "LightFix_8",
+    "ValidateData_9",
+    "AlertGen_10"
+  ]
+}

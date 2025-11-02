@@ -1,0 +1,430 @@
+{
+  "vertices": 18,
+  "edges": [
+    {
+      "weight": 4.67675170351187,
+      "from": "ReportGen_1",
+      "to": "Inspection_2"
+    },
+    {
+      "weight": 4.173303464215904,
+      "from": "ReportGen_1",
+      "to": "RoadRepair_3"
+    },
+    {
+      "weight": 2.3133179512805366,
+      "from": "ReportGen_1",
+      "to": "AlertGen_4"
+    },
+    {
+      "weight": 7.2694210636732075,
+      "from": "ReportGen_1",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 6.966913586899121,
+      "from": "ReportGen_1",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 4.5475774231389945,
+      "from": "ReportGen_1",
+      "to": "Inspection_12"
+    },
+    {
+      "weight": 9.375341308834553,
+      "from": "ReportGen_1",
+      "to": "Inspection_9"
+    },
+    {
+      "weight": 4.508281274533358,
+      "from": "ReportGen_1",
+      "to": "ReportGen_7"
+    },
+    {
+      "weight": 2.704171968387762,
+      "from": "ReportGen_1",
+      "to": "ProcessData_6"
+    },
+    {
+      "weight": 5.913939153609335,
+      "from": "ReportGen_1",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 7.137081277990015,
+      "from": "Inspection_2",
+      "to": "Archive_5"
+    },
+    {
+      "weight": 4.155168244541443,
+      "from": "Inspection_2",
+      "to": "ProcessData_6"
+    },
+    {
+      "weight": 8.589743520820097,
+      "from": "Inspection_2",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 9.185373966322746,
+      "from": "Inspection_2",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 9.145482585561068,
+      "from": "Inspection_2",
+      "to": "RoadRepair_11"
+    },
+    {
+      "weight": 1.9544434785030254,
+      "from": "Inspection_2",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 8.984896588561037,
+      "from": "Inspection_2",
+      "to": "ReportGen_7"
+    },
+    {
+      "weight": 4.514089878277112,
+      "from": "RoadRepair_3",
+      "to": "ProcessData_6"
+    },
+    {
+      "weight": 2.591981462252202,
+      "from": "RoadRepair_3",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 7.913403651291902,
+      "from": "RoadRepair_3",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 5.436081241817378,
+      "from": "RoadRepair_3",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 4.675749085446931,
+      "from": "RoadRepair_3",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 4.653328641168107,
+      "from": "AlertGen_4",
+      "to": "ReportGen_7"
+    },
+    {
+      "weight": 9.923622389115225,
+      "from": "AlertGen_4",
+      "to": "Inspection_12"
+    },
+    {
+      "weight": 8.0518722960309,
+      "from": "AlertGen_4",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 2.347354998077362,
+      "from": "AlertGen_4",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 8.466494178559106,
+      "from": "AlertGen_4",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 2.9175623245608953,
+      "from": "AlertGen_4",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 3.2845523941379815,
+      "from": "AlertGen_4",
+      "to": "ProcessData_6"
+    },
+    {
+      "weight": 7.340516435111318,
+      "from": "AlertGen_4",
+      "to": "StatusUpdate_10"
+    },
+    {
+      "weight": 6.94518959046703,
+      "from": "AlertGen_4",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 8.149820880451365,
+      "from": "Archive_5",
+      "to": "Inspection_9"
+    },
+    {
+      "weight": 7.252041685588907,
+      "from": "Archive_5",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 3.927682657500765,
+      "from": "Archive_5",
+      "to": "ProcessData_6"
+    },
+    {
+      "weight": 6.025449932609267,
+      "from": "Archive_5",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 2.8430190307403023,
+      "from": "Archive_5",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 6.7323519273024255,
+      "from": "ProcessData_6",
+      "to": "RoadRepair_11"
+    },
+    {
+      "weight": 6.7445642942329975,
+      "from": "ProcessData_6",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 2.8990528743257693,
+      "from": "ProcessData_6",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 7.395971508137231,
+      "from": "ProcessData_6",
+      "to": "ReportGen_7"
+    },
+    {
+      "weight": 9.740708936145417,
+      "from": "ReportGen_7",
+      "to": "RoadRepair_11"
+    },
+    {
+      "weight": 4.131597274512291,
+      "from": "ReportGen_7",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 1.2339245544082063,
+      "from": "ReportGen_7",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 1.1720920034310833,
+      "from": "ReportGen_7",
+      "to": "Archive_8"
+    },
+    {
+      "weight": 6.130665653444182,
+      "from": "ReportGen_7",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 7.462622772134216,
+      "from": "Archive_8",
+      "to": "StatusUpdate_10"
+    },
+    {
+      "weight": 2.167269712871666,
+      "from": "Archive_8",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 4.4052349646187245,
+      "from": "Archive_8",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 2.2801867800329596,
+      "from": "Inspection_9",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 4.113523582804018,
+      "from": "Inspection_9",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 7.882193766015028,
+      "from": "Inspection_9",
+      "to": "StatusUpdate_10"
+    },
+    {
+      "weight": 3.039393413626288,
+      "from": "Inspection_9",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 4.55833187033115,
+      "from": "Inspection_9",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 6.54532440111015,
+      "from": "StatusUpdate_10",
+      "to": "RoadRepair_11"
+    },
+    {
+      "weight": 4.9410412802473545,
+      "from": "StatusUpdate_10",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 4.021366467594052,
+      "from": "StatusUpdate_10",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 7.762922766161031,
+      "from": "StatusUpdate_10",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 3.006947547500354,
+      "from": "StatusUpdate_10",
+      "to": "Inspection_12"
+    },
+    {
+      "weight": 7.670207983220994,
+      "from": "RoadRepair_11",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 8.64604201624253,
+      "from": "RoadRepair_11",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 1.7770086608505982,
+      "from": "RoadRepair_11",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 7.0718656654544105,
+      "from": "RoadRepair_11",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 8.815034456749759,
+      "from": "RoadRepair_11",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 3.465503493959454,
+      "from": "RoadRepair_11",
+      "to": "ReportGen_1"
+    },
+    {
+      "weight": 4.284293182823264,
+      "from": "Inspection_12",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 3.413715709546687,
+      "from": "Inspection_12",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 2.3341103124868976,
+      "from": "Inspection_12",
+      "to": "Inspection_15"
+    },
+    {
+      "weight": 8.460314007382305,
+      "from": "Inspection_12",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 3.8592694713476368,
+      "from": "Inspection_12",
+      "to": "ProcessData_13"
+    },
+    {
+      "weight": 3.8918532476579166,
+      "from": "Inspection_12",
+      "to": "ReportGen_7"
+    },
+    {
+      "weight": 6.47964347557637,
+      "from": "ProcessData_13",
+      "to": "SensorMaint_14"
+    },
+    {
+      "weight": 5.354538194085678,
+      "from": "ProcessData_13",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 6.661118410187954,
+      "from": "ProcessData_13",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 8.178151842128871,
+      "from": "SensorMaint_14",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 8.408110956624393,
+      "from": "Inspection_15",
+      "to": "ProcessData_16"
+    },
+    {
+      "weight": 4.464644333014764,
+      "from": "Inspection_15",
+      "to": "DataAnalysis_18"
+    },
+    {
+      "weight": 2.0212363205780477,
+      "from": "Inspection_15",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 4.046542203002707,
+      "from": "Inspection_15",
+      "to": "StatusUpdate_10"
+    },
+    {
+      "weight": 7.389760663820681,
+      "from": "Inspection_15",
+      "to": "Inspection_2"
+    },
+    {
+      "weight": 1.907622534552073,
+      "from": "ProcessData_16",
+      "to": "MonitorTraffic_17"
+    },
+    {
+      "weight": 8.700777884373405,
+      "from": "MonitorTraffic_17",
+      "to": "DataAnalysis_18"
+    }
+  ],
+  "tasks": [
+    "ReportGen_1",
+    "Inspection_2",
+    "RoadRepair_3",
+    "AlertGen_4",
+    "Archive_5",
+    "ProcessData_6",
+    "ReportGen_7",
+    "Archive_8",
+    "Inspection_9",
+    "StatusUpdate_10",
+    "RoadRepair_11",
+    "Inspection_12",
+    "ProcessData_13",
+    "SensorMaint_14",
+    "Inspection_15",
+    "ProcessData_16",
+    "MonitorTraffic_17",
+    "DataAnalysis_18"
+  ]
+}
