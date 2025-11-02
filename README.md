@@ -26,10 +26,14 @@ Here are the test results:
 
 <img width="591" height="104" alt="image" src="https://github.com/user-attachments/assets/1ce68b20-4a28-46e0-92c1-d2cd650663fe" />
 
+<img width="575" height="354" alt="image" src="https://github.com/user-attachments/assets/25444012-ae6e-4e45-8b86-34725badb278" />
+
 Shortest and Longest Path Algorithms:
 These algorithms find the shortest or longest path through a DAG, which is useful for figuring out the minimum or maximum time to complete a project.
 Here are the test results:
 <img width="705" height="126" alt="image" src="https://github.com/user-attachments/assets/de37b36b-3d31-4ff0-87dd-ff9f168d7434" />
+
+<img width="578" height="357" alt="image" src="https://github.com/user-attachments/assets/5061a646-f070-4858-b94b-1785fd466fc6" />
 
 
 
@@ -128,7 +132,6 @@ Accurate shortest and longest path calculations
 Special cases like self-loops and single vertices
 
 All 19 tests passed, which gives me confidence the code is correct.
-
 
 For small graphs (up to 50 vertices):
 SCC detection: under 1ms
