@@ -1,0 +1,26 @@
+Category,Test Name,Status,Vertices (n),Edges (m),SCCs,Has Cycles,Execution Time (ms),Operation Counters,Error Message
+"SCC","SCC - Simple Cycle (3 vertices)","PASS",3,3,1,Yes,2.934,"dfs_visits=3; edge_traversals=3; stack_pops=3;",""
+"SCC","SCC - Pure DAG (no cycles)","PASS",4,3,4,No,0.115,"dfs_visits=4; edge_traversals=3; stack_pops=4;",""
+"SCC","SCC - Multiple Components","PASS",6,7,3,Yes,0.109,"dfs_visits=6; edge_traversals=7; stack_pops=6;",""
+"SCC","SCC - Single Vertex","PASS",1,0,1,No,0.075,"dfs_visits=1; stack_pops=1;",""
+"SCC","SCC - Condensation Graph","PASS",5,5,4,Yes,8.967,"dfs_visits=5; edge_traversals=5; stack_pops=5;",""
+"Topological Sort","Topo - Simple Linear DAG","PASS",4,3,4,No,1.426,"queue_pushes=4; queue_pops=4;",""
+"Topological Sort","Topo - Diamond Graph","PASS",4,4,4,No,0.257,"queue_pushes=4; queue_pops=4;",""
+"Topological Sort","Topo - Cycle Detection","PASS",3,3,0,Yes,0.100,"",""
+"Topological Sort","Topo - Multiple Sources","PASS",5,4,5,No,0.101,"queue_pushes=5; queue_pops=5;",""
+"Path Algorithms","Path - Simple Shortest Path","PASS",3,2,3,No,1.086,"relaxations=2;",""
+"Path Algorithms","Path - Multiple Paths","PASS",4,4,4,No,0.161,"relaxations=4;",""
+"Path Algorithms","Path - Longest Path","PASS",4,4,4,No,0.103,"relaxations=4;",""
+"Path Algorithms","Path - Critical Path Finding","PASS",5,5,5,No,0.613,"relaxations=5;",""
+"Path Algorithms","Path - Path Reconstruction","PASS",4,3,4,No,0.167,"relaxations=3;",""
+"Integration","Integration - Complete Analysis","PASS",6,6,4,Yes,0.832,"dfs_visits=6; edge_traversals=6; stack_pops=6;",""
+"Integration","Integration - Metrics Tracking","PASS",5,4,5,No,0.104,"dfs_visits=5; edge_traversals=4; stack_pops=5;",""
+"Edge Cases","Edge - Empty Graph","PASS",0,0,0,No,0.071,"",""
+"Edge Cases","Edge - Disconnected Components","PASS",4,2,4,No,0.090,"dfs_visits=4; edge_traversals=2; stack_pops=4;",""
+"Edge Cases","Edge - Self Loop","PASS",2,2,2,Yes,0.084,"dfs_visits=2; edge_traversals=2; stack_pops=2;",""
+
+SUMMARY
+Total Tests,19
+Passed,19
+Failed,0
+Success Rate,100.0%
